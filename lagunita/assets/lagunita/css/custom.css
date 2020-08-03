@@ -1,0 +1,18 @@
+#logo {
+    overflow: hidden;
+}
+
+#logo img {
+    text-indent: -50%;
+    border-radius: 50%;
+    object-fit: cover;
+    width: 100px;
+    height: 100px;
+  }
+
+#site-slogan #title {
+    color: #333333;
+    font-size: 1.5em;
+    font-weight: 300;
+    font-style: italic;
+}
